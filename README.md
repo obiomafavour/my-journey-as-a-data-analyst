@@ -4,5 +4,3 @@ This is where i started my data analysis journey. I started my portfolio buildin
 I have learnt quite alot. I am currently learning excel
 
 ## PROJECT TOPIC: FUNCTIONS IN EXCEL
-
-``` select
